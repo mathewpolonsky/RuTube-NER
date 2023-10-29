@@ -2,7 +2,7 @@
 
 Решение команды `Deviаnts` задачи NER от RuTube в рамках Хакатона [Цифровой прорыв](https://hacks-ai.ru).
 
-Решение задачи извлечения именнованных сущностей (NER), представленное [`LaBSE-en-ru`](https://huggingface.co/cointegrated/LaBSE-en-ru). 
+Лучше всего из наших моделей себя показала [`LaBSE-en-ru`](https://huggingface.co/cointegrated/LaBSE-en-ru). 
 
 Перед обучением проведена тщательная разметка части датасета.
 
