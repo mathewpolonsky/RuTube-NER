@@ -4,7 +4,7 @@
 
 Лучше всего из наших моделей себя показала [`LaBSE-en-ru`](https://huggingface.co/cointegrated/LaBSE-en-ru). 
 
-Перед обучением проведена тщательная разметка части датасета.
+Перед обучением была проведена тщательная разметка части датасета.
 
 [Ссылка на csv с размеченными 1000 семплами](https://drive.google.com/file/d/1ZEtdNX2eo7gAuoiGHxQFYI50z3jJYH_q/view?usp=sharing)
 
